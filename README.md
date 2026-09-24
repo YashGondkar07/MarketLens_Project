@@ -3,6 +3,22 @@
 > A marketing analytics solution for analyzing campaign performance, customer conversion, attribution, ROI, CAC, and budget optimization using SQL, Python, MySQL, and Power BI.
 
 ---
+## 📊 MarketLens Dashboard
+
+### 1. Executive Overview
+![Executive Overview](screenshots/executive_overview.png)
+
+### 2. Campaign Performance
+![Campaign Performance](screenshots/campaign_performance.png)
+
+### 3. Attribution & ROI
+![Attribution & ROI](screenshots/attribution_roi.png)
+
+### 4. Marketing Funnel
+![Marketing Funnel](screenshots/marketing_funnel.png)
+
+### 5. Budget Optimization
+![Budget Optimization](screenshots/budget_optimization.png)
 
 ## 📌 Project Overview
 
