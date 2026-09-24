@@ -6,19 +6,19 @@
 ## 📊 MarketLens Dashboard
 
 ### 1. Executive Overview
-![Executive Overview](screenshots/executive_overview.png)
+![Executive Overview](Screenshots/executive_overview.png)
 
 ### 2. Campaign Performance
-![Campaign Performance](screenshots/campaign_performance.png)
+![Campaign Performance](Screenshots/campaign_performance.png)
 
 ### 3. Attribution & ROI
-![Attribution & ROI](screenshots/attribution_roi.png)
+![Attribution & ROI](Screenshots/attribution_roi.png)
 
 ### 4. Marketing Funnel
-![Marketing Funnel](screenshots/marketing_funnel.png)
+![Marketing Funnel](Screenshots/marketing_funnel.png)
 
 ### 5. Budget Optimization
-![Budget Optimization](screenshots/budget_optimization.png)
+![Budget Optimization](Screenshots/budget_optimization.png)
 
 ## 📌 Project Overview
 
